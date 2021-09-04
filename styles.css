@@ -73,7 +73,7 @@
 #nav a {
 	color: #fff;
 	text-decoration: none;
-	font-size: 22 vx;
+	font-size: 22px;
 	font-family: var(--heading-font);
 	position: absolute;
 	top: 0;
@@ -286,7 +286,7 @@ header .logo{
     font-weight: 600;
     color: #fff;
     text-decoration:none;
-    font-size: 2.5 rem;
+    font-size: 2.5rem;
     font-family:cursive;
 
 }
@@ -311,7 +311,7 @@ header .logo{
 .text-box p{
     color: #fff;
     margin-top: 20px;
-    font-size: 15 vx;
+    font-size: 15px;
     font-weight: bold;
 }
 .text-box a{
@@ -368,7 +368,7 @@ header .logo{
     left: -100px;
     content: attr(data-text);
     white-space: nowrap;
-    font-size: 5vx;
+    font-size: 5em;
     color: rgba(0, 0, 0, 0.15);
     opacity: 0;
     font-weight: 700;
@@ -418,7 +418,7 @@ header .logo{
 
 .hero__text{
   font-weight: 800;
-  font-size: 30 vx;
+  font-size: 30px;
   margin: 20px 0;
   color: #1d3557;
 }
@@ -459,7 +459,7 @@ section {
   margin-left: -150px;
 }
 .right h1 {
-  font-size: 40 vx;
+  font-size: 40px;
   font-weight: lighter;
 }
 .right p {
@@ -499,7 +499,7 @@ width: 100%;
 }
 .text{
   color:#fff;
-  font-size: 16vx;
+  font-size: 16px;
   font-weight: 300;
   letter-spacing: 1px;
 }
@@ -555,7 +555,7 @@ a {
   bottom: 0px;
   overflow-x: clip;
   width: 300px;
-  font-size: 16vx;
+  font-size: 16px;
 }
 #cw-sidebox p {
   padding: 0;
@@ -589,7 +589,7 @@ a {
 }
 
 #cw .logo {
-  font-size: 25vx;
+  font-size: 25px;
 }
 
 #cw .author {
@@ -653,7 +653,7 @@ a {
   padding: 5px;
   background-color: var(--color-3);
   border-radius: 50%;
-  font-size: 20vx;
+  font-size: 20px;
   cursor: pointer;
 }
 
@@ -712,7 +712,7 @@ a {
         max-width: 100%;
     }
     .content .text-box h2{
-        font-size: 2.5 vx;
+        font-size: 2.5rem;
         margin-bottom: 15px;
     }
     .content .image-box{
@@ -736,7 +736,7 @@ a {
         position: absolute;
         top: -100px;
         left: 50px;
-        font-size: 5vx;
+        font-size: 5em;
     }
     .sci{
         background: rgba(0, 0, 0, 0.1);
@@ -749,4 +749,3 @@ a {
 
 
 }
-
